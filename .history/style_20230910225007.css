@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+   
+    font-family: Arial, sans-serif;
+    background:linear-gradient(to right ,rgb(58, 58, 58) ,rgb(0, 128, 128) );
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+.container{
+    background-color: white;
+    width: 400px;
+    border-radius:10px ;
+    padding: 20px;
+   
+    
+        
+}
+.container h1{
+    padding: 30px;
+}
